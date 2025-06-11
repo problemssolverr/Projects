@@ -21,7 +21,7 @@ const Footer = () => {
         {/* Social Links */}
         <div className="flex space-x-6">
           <a
-            href="https://www.facebook.com/share/p/199fCXPgVa/" // Replace with your actual Facebook URL
+            href="https://www.facebook.com/share/1CH7ARbZCP/" // Replace with your actual Facebook URL
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-lime-400"
@@ -29,12 +29,20 @@ const Footer = () => {
             Facebook
           </a>
           <a
-            href="https://linkedin.com/in/yourprofile" // Replace with your actual LinkedIn URL
+            href="https://www.linkedin.com/in/akinsanya-o-w-a-k-a-god-sgrace-648842151?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" // Replace with your actual LinkedIn URL
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-lime-400"
           >
             LinkedIn
+          </a>
+          <a
+            href="https://www.instagram.com/pestcontrol52godsgrace?igsh=c3FhYjI3aDl4NHJk" // Replace with your actual LinkedIn URL
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-lime-400"
+          >
+            Instagram
           </a>
         </div>
       </div>
